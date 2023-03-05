@@ -1,0 +1,3 @@
+[submodule "vite-react-ts-tailwind"]
+	path = vite-react-ts-tailwind
+	url = git@github.com:L-Ryland/vite-react-ts-tailwind.git
